@@ -1,3 +1,18 @@
+# tkinter for developing GUIs for Python
+from tkinter import *
+import tkinter
+window = Tk()
+window.geometry("300x300")
+window.title("Test run")
+window.mainloop()
+label = tkinter.Label(text="Test run")
+entry = tkinter.Entry(fg="black", bg="white", width=50)
+label.pack()
+entry.pack()
+amount = entry.get()
+
+
+
 
 import random
 
