@@ -193,13 +193,10 @@ mydictionary["dopamine_data"]
 # In[102]:
 
 
-import pandas as pd
-import numpy as np
+import pandas as pd # pandas used for data science: work with dataframes.
+import numpy as np # used to manipulate arrays
 
-
-# In[103]:
-
-
+# apply the DataFrame function from the pd library to the mydictionary object
 pd.DataFrame(mydictionary)
 
 
@@ -216,7 +213,7 @@ rat = [12,34,45,41,76,74,33,33,22,53,22,12]
 
 # In[109]:
 
-
+# create an array
 np.arange(start=0, stop=12) # a range (not arrange)
 
 
@@ -243,7 +240,7 @@ print(mouse)
 
 # In[120]:
 
-
+# matplotlib.pyplot is the plotting library
 import matplotlib.pyplot as plt
 
 
@@ -256,7 +253,7 @@ import matplotlib.pyplot as plt
 
 # In[141]:
 
-
+# use the plot function to plot months versus rat
 plt.plot(months,rat,label ="rat", color ="red") # plot is a line plot.
 plt.plot(months,mouse,label = "mouse")
 plt.legend()
