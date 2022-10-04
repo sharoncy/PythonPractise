@@ -31,7 +31,7 @@ root.geometry("300x275")
 text_result = tk.Text(root, height=2, width =16, font=("Arial", 24))
 text_result.grid(columnspan=5)
 
-btn_1 =tk.Button(root, text="1", command=lambda: add_to_calculation(1), width=5, font=("Arial",14))
+btn_1 =tk.Button(root, text="1", command=lambda: add_to_calculation(1), width=5, font=("Arial",14)) 
 btn_1.grid(row=2, column=1)
 
 btn_2 =tk.Button(root, text="2", command=lambda: add_to_calculation(2), width=5, font=("Arial",14))
@@ -86,3 +86,5 @@ btn_equals =tk.Button(root, text="=", command=evaluate_calculation, width=11, fo
 btn_equals.grid(row=6, column=3, columnspan=2)
 
 root.mainloop() # run main loop
+
+# lambda is a small anonymous function that is defined without a name. lambda arguments: expression. The expression is executed and the result is returned.
