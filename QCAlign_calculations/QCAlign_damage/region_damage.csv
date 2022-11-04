@@ -1,0 +1,81 @@
+Region,Perc_damage
+Total grid,0.05428563044690279
+Total atlas,0.0659022678771657
+Clear Label,0.004353233830845771
+root,0.0
+Basic cell groups and regions,0.0
+Cerebrum,0.0
+Cerebral cortex,0.0
+Cortical plate,0.0
+Isocortex,0.006360187458156662
+Olfactory areas,0.09482288828337875
+Hippocampal formation,0.0
+Hippocampal region,0.0
+Ammon's horn,0.0
+Dentate gyrus,0.0
+"Dentate gyrus, molecular layer",0.011194029850746268
+"Dentate gyrus, polymorph layer",0.0
+"Dentate gyrus, granule cell layer",0.0
+Fasciola cinerea,0.0
+Induseum griseum,0.0
+Retrohippocampal region,0.0
+Entorhinal area,0.0
+Parasubiculum,0.0
+Postsubiculum,0.0
+Presubiculum,0.0
+Subiculum,0.0
+Cortical subplate,0.104
+Claustrum,0.0
+Endopiriform nucleus,0.03614457831325301
+Lateral amygdalar nucleus,0.0
+Basolateral amygdalar nucleus,0.0
+Basomedial amygdalar nucleus,0.0
+Posterior amygdalar nucleus,0.0
+Cerebral nuclei,0.0
+Striatum,0.08641975308641975
+Striatum dorsal region,0.0
+Caudoputamen,0.0
+Striatum ventral region,0.0
+Nucleus accumbens,0.0
+Fundus of striatum,0.0
+Olfactory tubercle,0.0
+Lateral septal complex,0.10882352941176471
+Striatum-like amygdalar nuclei,0.0
+Pallidum,0.11076923076923077
+Brain stem,0.0
+Interbrain,0.0
+Thalamus,0.13445378151260504
+"Thalamus, sensory-motor cortex related",0.0
+Ventral group of the dorsal thalamus,0.0
+Subparafascicular nucleus,0.17647058823529413
+Subparafascicular area,0.0
+Peripeduncular nucleus,0.0
+"Geniculate group, dorsal thalamus",0.0
+"Thalamus, polymodal association cortex related",0.0
+Lateral group of the dorsal thalamus,0.0
+Anterior group of the dorsal thalamus,0.022058823529411766
+Medial group of the dorsal thalamus,0.23786407766990292
+Midline group of the dorsal thalamus,0.2706766917293233
+Intralaminar nuclei of the dorsal thalamus,0.09230769230769231
+Reticular nucleus of the thalamus,0.0
+"Geniculate group, ventral thalamus",0.0
+Epithalamus,0.2894736842105263
+Hypothalamus,0.4731301939058172
+Midbrain,0.1226158038147139
+"Midbrain, sensory related",0.0
+"Midbrain, motor related",0.05201342281879195
+"Midbrain, behavioral state related",0.045871559633027525
+Hindbrain,0.0
+Pons,0.09821428571428571
+"Pons, sensory related",0.0
+"Pons, motor related",0.009569377990430622
+"Pons, behavioral state related",0.0
+Medulla,0.0
+"Medulla, sensory related",0.0
+"Medulla, motor related",0.0
+"Medulla, behavioral state related",0.0
+Cerebellum,0.0
+Cerebellar cortex,0.0
+Cerebellar nuclei,0.0
+fiber tracts,0.06371911573472042
+ventricular systems,0.21406727828746178
