@@ -1,0 +1,49 @@
+Region ID;Region;Perc accuracy
+;Total;0.9928539526574364
+0.0;Clear Label;0.8888888888888888
+315.0;Isocortex;0.9976387249114522
+698.0;Olfactory areas;1.0
+1089.0;Hippocampal formation;1.0
+375.0;Ammon's horn;0.9929577464788732
+10703.0;Dentate gyrus, molecular layer;1.0
+10704.0;Dentate gyrus, polymorph layer;1.0
+632.0;Dentate gyrus, granule cell layer;0.9
+909.0;Entorhinal area;1.0
+843.0;Parasubiculum;1.0
+1037.0;Postsubiculum;1.0
+1084.0;Presubiculum;1.0
+502.0;Subiculum;1.0
+703.0;Cortical subplate;1.0
+583.0;Claustrum;1.0
+942.0;Endopiriform nucleus;1.0
+131.0;Lateral amygdalar nucleus;1.0
+295.0;Basolateral amygdalar nucleus;1.0
+319.0;Basomedial amygdalar nucleus;1.0
+477.0;Striatum;1.0
+672.0;Caudoputamen;1.0
+56.0;Nucleus accumbens;1.0
+754.0;Olfactory tubercle;0.96
+275.0;Lateral septal complex;1.0
+278.0;Striatum-like amygdalar nuclei;1.0
+803.0;Pallidum;1.0
+549.0;Thalamus;1.0
+637.0;Ventral group of the dorsal thalamus;1.0
+1008.0;Geniculate group, dorsal thalamus;1.0
+138.0;Lateral group of the dorsal thalamus;1.0
+239.0;Anterior group of the dorsal thalamus;1.0
+444.0;Medial group of the dorsal thalamus;1.0
+571.0;Midline group of the dorsal thalamus;1.0
+51.0;Intralaminar nuclei of the dorsal thalamus;1.0
+262.0;Reticular nucleus of the thalamus;1.0
+1014.0;Geniculate group, ventral thalamus;1.0
+958.0;Epithalamus;1.0
+313.0;Midbrain;0.9714285714285714
+339.0;Midbrain, sensory related;0.9333333333333333
+323.0;Midbrain, motor related;1.0
+348.0;Midbrain, behavioral state related;1.0
+771.0;Pons;1.0
+1132.0;Pons, sensory related;1.0
+987.0;Pons, motor related;1.0
+1117.0;Pons, behavioral state related;1.0
+1009.0;fiber tracts;0.9900497512437811
+73.0;ventricular systems;0.625
