@@ -1,0 +1,396 @@
+ID	Structure	Status	Total	059-CKT-1-Thionine-12-07-15-08-04.png	071-CKT-1-Thionine-12-07-15-08-05.png	083-CKT-1-Thionine-12-07-15-08-06.png	095-CKT-1-Thionine-12-07-15-08-07.png	107-CKT-1-Thionine-12-07-15-08-08.png	119-CKT-1-Thionine-12-07-15-08-09.png	131-CKT-1-Thionine-12-07-15-08-10.png	143-CKT-1-Thionine-12-07-15-08-11.png	155-CKT-1-Thionine-12-07-15-08-12.png	167-CKT-1-Thionine-12-07-15-08-13.png	179-CKT-1-Thionine-12-07-15-08-14.png	191-CKT-1-Thionine-12-07-15-08-15.png	203-CKT-1-Thionine-12-07-15-08-16.png	215-CKT-1-Thionine-12-07-15-08-17.png	227-CKT-1-Thionine-12-07-15-08-18.png
+	Total	N/A	1183	45	58	58	100	90	101	88	108	92	85	87	65	71	75	60
+	Total	Accurate	2223	119	139	148	155	137	147	174	169	169	161	175	171	160	141	58
+	Total	Inaccurate	16	0	0	2	0	3	4	1	0	3	0	1	0	1	1	0
+	Total	Uncertain	317	12	11	13	15	22	33	22	23	21	24	22	19	23	35	22
+	Total	Damaged	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	Clear Label	N/A	711	27	31	30	46	45	54	45	72	47	50	67	53	53	61	30
+0	Clear Label	Accurate	8	0	0	2	0	0	0	2	1	1	0	0	1	0	0	1
+0	Clear Label	Inaccurate	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+0	Clear Label	Uncertain	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	Clear Label	Damaged	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+997	root	N/A	0															
+997	root	Accurate	0															
+997	root	Inaccurate	0															
+997	root	Uncertain	0															
+997	root	Damaged	0															
+8	Basic cell groups and regions	N/A	0															
+8	Basic cell groups and regions	Accurate	0															
+8	Basic cell groups and regions	Inaccurate	0															
+8	Basic cell groups and regions	Uncertain	0															
+8	Basic cell groups and regions	Damaged	0															
+567	Cerebrum	N/A	0															
+567	Cerebrum	Accurate	0															
+567	Cerebrum	Inaccurate	0															
+567	Cerebrum	Uncertain	0															
+567	Cerebrum	Damaged	0															
+688	Cerebral cortex	N/A	0															
+688	Cerebral cortex	Accurate	0															
+688	Cerebral cortex	Inaccurate	0															
+688	Cerebral cortex	Uncertain	0															
+688	Cerebral cortex	Damaged	0															
+695	Cortical plate	N/A	0															
+695	Cortical plate	Accurate	0															
+695	Cortical plate	Inaccurate	0															
+695	Cortical plate	Uncertain	0															
+695	Cortical plate	Damaged	0															
+315	Isocortex	N/A	24	3	3	0	7	0	2	2	1	1	1	0	2	0	0	2
+315	Isocortex	Accurate	845	66	62	63	66	68	67	70	59	56	51	54	49	49	41	24
+315	Isocortex	Inaccurate	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+315	Isocortex	Uncertain	19	3	2	0	2	1	2	2	2	0	1	1	1	1	0	1
+315	Isocortex	Damaged	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+698	Olfactory areas	N/A	9	3	0	0	0	1	2	0	1	1	0	1	0			
+698	Olfactory areas	Accurate	128	7	8	10	12	14	15	15	13	17	10	7	0			
+698	Olfactory areas	Inaccurate	0	0	0	0	0	0	0	0	0	0	0	0	0			
+698	Olfactory areas	Uncertain	19	5	0	0	0	1	0	2	3	1	2	3	2			
+698	Olfactory areas	Damaged	0	0	0	0	0	0	0	0	0	0	0	0	0			
+1089	Hippocampal formation	N/A	3											1	1	0	0	1
+1089	Hippocampal formation	Accurate	6											0	1	2	1	2
+1089	Hippocampal formation	Inaccurate	0											0	0	0	0	0
+1089	Hippocampal formation	Uncertain	3											0	0	0	0	3
+1089	Hippocampal formation	Damaged	0											0	0	0	0	0
+1080	Hippocampal region	N/A	0															
+1080	Hippocampal region	Accurate	0															
+1080	Hippocampal region	Inaccurate	0															
+1080	Hippocampal region	Uncertain	0															
+1080	Hippocampal region	Damaged	0															
+375	Ammon's horn	N/A	0						0	0	0	0	0	0	0	0		
+375	Ammon's horn	Accurate	141						0	9	13	16	34	40	23	6		
+375	Ammon's horn	Inaccurate	1						0	0	0	1	0	0	0	0		
+375	Ammon's horn	Uncertain	10						1	0	0	1	2	2	2	2		
+375	Ammon's horn	Damaged	0						0	0	0	0	0	0	0	0		
+726	Dentate gyrus	N/A	0															
+726	Dentate gyrus	Accurate	0															
+726	Dentate gyrus	Inaccurate	0															
+726	Dentate gyrus	Uncertain	0															
+726	Dentate gyrus	Damaged	0															
+10703	Dentate gyrus, molecular layer	N/A	1							1	0	0	0	0	0	0		
+10703	Dentate gyrus, molecular layer	Accurate	39							3	4	6	4	3	15	4		
+10703	Dentate gyrus, molecular layer	Inaccurate	0							0	0	0	0	0	0	0		
+10703	Dentate gyrus, molecular layer	Uncertain	1							0	0	0	0	0	0	1		
+10703	Dentate gyrus, molecular layer	Damaged	0							0	0	0	0	0	0	0		
+10704	Dentate gyrus, polymorph layer	N/A	0									0			0			
+10704	Dentate gyrus, polymorph layer	Accurate	2									1			1			
+10704	Dentate gyrus, polymorph layer	Inaccurate	0									0			0			
+10704	Dentate gyrus, polymorph layer	Uncertain	1									0			1			
+10704	Dentate gyrus, polymorph layer	Damaged	0									0			0			
+632	Dentate gyrus, granule cell layer	N/A	1							0	0	0	1	0		0		
+632	Dentate gyrus, granule cell layer	Accurate	9							1	2	1	1	3		1		
+632	Dentate gyrus, granule cell layer	Inaccurate	1							0	0	0	0	0		1		
+632	Dentate gyrus, granule cell layer	Uncertain	4							0	0	0	0	0		4		
+632	Dentate gyrus, granule cell layer	Damaged	0							0	0	0	0	0		0		
+982	Fasciola cinerea	N/A	0															
+982	Fasciola cinerea	Accurate	0															
+982	Fasciola cinerea	Inaccurate	0															
+982	Fasciola cinerea	Uncertain	0															
+982	Fasciola cinerea	Damaged	0															
+19	Induseum griseum	N/A	0															
+19	Induseum griseum	Accurate	0															
+19	Induseum griseum	Inaccurate	0															
+19	Induseum griseum	Uncertain	0															
+19	Induseum griseum	Damaged	0															
+822	Retrohippocampal region	N/A	0															
+822	Retrohippocampal region	Accurate	0															
+822	Retrohippocampal region	Inaccurate	0															
+822	Retrohippocampal region	Uncertain	0															
+822	Retrohippocampal region	Damaged	0															
+909	Entorhinal area	N/A	0								0	0	0	0	0	0	0	0
+909	Entorhinal area	Accurate	78								1	0	6	8	10	13	18	22
+909	Entorhinal area	Inaccurate	0								0	0	0	0	0	0	0	0
+909	Entorhinal area	Uncertain	15								0	2	2	3	4	0	0	4
+909	Entorhinal area	Damaged	0								0	0	0	0	0	0	0	0
+843	Parasubiculum	N/A	0														0	0
+843	Parasubiculum	Accurate	5														5	0
+843	Parasubiculum	Inaccurate	0														0	0
+843	Parasubiculum	Uncertain	2														1	1
+843	Parasubiculum	Damaged	0														0	0
+1037	Postsubiculum	N/A	0													0	0	0
+1037	Postsubiculum	Accurate	4													1	3	0
+1037	Postsubiculum	Inaccurate	0													0	0	0
+1037	Postsubiculum	Uncertain	3													0	2	1
+1037	Postsubiculum	Damaged	0													0	0	0
+1084	Presubiculum	N/A	0													0	0	0
+1084	Presubiculum	Accurate	6													0	4	2
+1084	Presubiculum	Inaccurate	0													0	0	0
+1084	Presubiculum	Uncertain	1													1	0	0
+1084	Presubiculum	Damaged	0													0	0	0
+502	Subiculum	N/A	0										0	0	0	0	0	
+502	Subiculum	Accurate	43										3	4	8	18	10	
+502	Subiculum	Inaccurate	0										0	0	0	0	0	
+502	Subiculum	Uncertain	6										0	2	2	0	2	
+502	Subiculum	Damaged	0										0	0	0	0	0	
+703	Cortical subplate	N/A	0	0				0			0	0	0					
+703	Cortical subplate	Accurate	4	3				0			0	1	0					
+703	Cortical subplate	Inaccurate	0	0				0			0	0	0					
+703	Cortical subplate	Uncertain	7	0				2			2	1	2					
+703	Cortical subplate	Damaged	0	0				0			0	0	0					
+583	Claustrum	N/A	0		0	0			0									
+583	Claustrum	Accurate	1		0	0			1									
+583	Claustrum	Inaccurate	0		0	0			0									
+583	Claustrum	Uncertain	3		2	1			0									
+583	Claustrum	Damaged	0		0	0			0									
+942	Endopiriform nucleus	N/A	0	0	0	0	0	0	0	0	0	0	0					
+942	Endopiriform nucleus	Accurate	13	2	0	1	1	1	2	0	2	2	2					
+942	Endopiriform nucleus	Inaccurate	0	0	0	0	0	0	0	0	0	0	0					
+942	Endopiriform nucleus	Uncertain	4	0	1	0	0	0	1	1	0	1	0					
+942	Endopiriform nucleus	Damaged	0	0	0	0	0	0	0	0	0	0	0					
+131	Lateral amygdalar nucleus	N/A	0							0	0	0						
+131	Lateral amygdalar nucleus	Accurate	5							1	1	3						
+131	Lateral amygdalar nucleus	Inaccurate	0							0	0	0						
+131	Lateral amygdalar nucleus	Uncertain	0							0	0	0						
+131	Lateral amygdalar nucleus	Damaged	0							0	0	0						
+295	Basolateral amygdalar nucleus	N/A	0						0	0	0	0	0	0				
+295	Basolateral amygdalar nucleus	Accurate	12						0	5	2	3	2	0				
+295	Basolateral amygdalar nucleus	Inaccurate	0						0	0	0	0	0	0				
+295	Basolateral amygdalar nucleus	Uncertain	5						1	0	2	1	0	1				
+295	Basolateral amygdalar nucleus	Damaged	0						0	0	0	0	0	0				
+319	Basomedial amygdalar nucleus	N/A	0						0	0	0	0	0					
+319	Basomedial amygdalar nucleus	Accurate	5						1	2	1	1	0					
+319	Basomedial amygdalar nucleus	Inaccurate	0						0	0	0	0	0					
+319	Basomedial amygdalar nucleus	Uncertain	4						1	1	0	1	1					
+319	Basomedial amygdalar nucleus	Damaged	0						0	0	0	0	0					
+780	Posterior amygdalar nucleus	N/A	0									0		0				
+780	Posterior amygdalar nucleus	Accurate	0									0		0				
+780	Posterior amygdalar nucleus	Inaccurate	0									0		0				
+780	Posterior amygdalar nucleus	Uncertain	4									2		2				
+780	Posterior amygdalar nucleus	Damaged	0									0		0				
+623	Cerebral nuclei	N/A	0															
+623	Cerebral nuclei	Accurate	0															
+623	Cerebral nuclei	Inaccurate	0															
+623	Cerebral nuclei	Uncertain	0															
+623	Cerebral nuclei	Damaged	0															
+477	Striatum	N/A	7	2	2	0	2		1	0	0							
+477	Striatum	Accurate	20	3	3	1	6		0	3	4							
+477	Striatum	Inaccurate	0	0	0	0	0		0	0	0							
+477	Striatum	Uncertain	5	0	0	0	2		2	1	0							
+477	Striatum	Damaged	0	0	0	0	0		0	0	0							
+485	Striatum dorsal region	N/A	0															
+485	Striatum dorsal region	Accurate	0															
+485	Striatum dorsal region	Inaccurate	0															
+485	Striatum dorsal region	Uncertain	0															
+485	Striatum dorsal region	Damaged	0															
+672	Caudoputamen	N/A	0	0	0	0	0	0	0	0	0	0						
+672	Caudoputamen	Accurate	180	0	25	35	42	31	19	13	9	6						
+672	Caudoputamen	Inaccurate	0	0	0	0	0	0	0	0	0	0						
+672	Caudoputamen	Uncertain	8	2	0	0	0	1	4	0	1	0						
+672	Caudoputamen	Damaged	0	0	0	0	0	0	0	0	0	0						
+493	Striatum ventral region	N/A	0															
+493	Striatum ventral region	Accurate	0															
+493	Striatum ventral region	Inaccurate	0															
+493	Striatum ventral region	Uncertain	0															
+493	Striatum ventral region	Damaged	0															
+56	Nucleus accumbens	N/A	10	3	7	0												
+56	Nucleus accumbens	Accurate	30	15	10	5												
+56	Nucleus accumbens	Inaccurate	0	0	0	0												
+56	Nucleus accumbens	Uncertain	5	0	3	2												
+56	Nucleus accumbens	Damaged	0	0	0	0												
+998	Fundus of striatum	N/A	0					0										
+998	Fundus of striatum	Accurate	0					0										
+998	Fundus of striatum	Inaccurate	0					0										
+998	Fundus of striatum	Uncertain	1					1										
+998	Fundus of striatum	Damaged	0					0										
+754	Olfactory tubercle	N/A	4	2	2	0	0											
+754	Olfactory tubercle	Accurate	24	10	7	6	1											
+754	Olfactory tubercle	Inaccurate	1	0	0	1	0											
+754	Olfactory tubercle	Uncertain	2	2	0	0	0											
+754	Olfactory tubercle	Damaged	0	0	0	0	0											
+275	Lateral septal complex	N/A	20	3	5	6	6	0										
+275	Lateral septal complex	Accurate	19	1	5	3	8	2										
+275	Lateral septal complex	Inaccurate	0	0	0	0	0	0										
+275	Lateral septal complex	Uncertain	2	0	0	2	0	0										
+275	Lateral septal complex	Damaged	0	0	0	0	0	0										
+278	Striatum-like amygdalar nuclei	N/A	0				0	0	0	0	0	0						
+278	Striatum-like amygdalar nuclei	Accurate	17				0	1	3	6	7	0						
+278	Striatum-like amygdalar nuclei	Inaccurate	0				0	0	0	0	0	0						
+278	Striatum-like amygdalar nuclei	Uncertain	16				1	3	7	2	2	1						
+278	Striatum-like amygdalar nuclei	Damaged	0				0	0	0	0	0	0						
+803	Pallidum	N/A	20	2	4	5	6	3	0	0	0							
+803	Pallidum	Accurate	50	1	8	12	10	6	6	6	1							
+803	Pallidum	Inaccurate	0	0	0	0	0	0	0	0	0							
+803	Pallidum	Uncertain	25	0	3	7	5	7	2	0	1							
+803	Pallidum	Damaged	0	0	0	0	0	0	0	0	0							
+343	Brain stem	N/A	0															
+343	Brain stem	Accurate	0															
+343	Brain stem	Inaccurate	0															
+343	Brain stem	Uncertain	0															
+343	Brain stem	Damaged	0															
+1129	Interbrain	N/A	0															
+1129	Interbrain	Accurate	0															
+1129	Interbrain	Inaccurate	0															
+1129	Interbrain	Uncertain	0															
+1129	Interbrain	Damaged	0															
+549	Thalamus	N/A	8					2	0	1	2	3	0	0	0			
+549	Thalamus	Accurate	27					0	2	4	6	7	5	2	1			
+549	Thalamus	Inaccurate	0					0	0	0	0	0	0	0	0			
+549	Thalamus	Uncertain	7					1	0	1	1	1	2	0	1			
+549	Thalamus	Damaged	0					0	0	0	0	0	0	0	0			
+864	Thalamus, sensory-motor cortex related	N/A	0															
+864	Thalamus, sensory-motor cortex related	Accurate	0															
+864	Thalamus, sensory-motor cortex related	Inaccurate	0															
+864	Thalamus, sensory-motor cortex related	Uncertain	0															
+864	Thalamus, sensory-motor cortex related	Damaged	0															
+637	Ventral group of the dorsal thalamus	N/A	0						0	0	0	0						
+637	Ventral group of the dorsal thalamus	Accurate	14						0	4	7	3						
+637	Ventral group of the dorsal thalamus	Inaccurate	0						0	0	0	0						
+637	Ventral group of the dorsal thalamus	Uncertain	16						3	6	3	4						
+637	Ventral group of the dorsal thalamus	Damaged	0						0	0	0	0						
+406	Subparafascicular nucleus	N/A	1									1	0					
+406	Subparafascicular nucleus	Accurate	0									0	0					
+406	Subparafascicular nucleus	Inaccurate	0									0	0					
+406	Subparafascicular nucleus	Uncertain	1									0	1					
+406	Subparafascicular nucleus	Damaged	0									0	0					
+609	Subparafascicular area	N/A	2									2						
+609	Subparafascicular area	Accurate	0									0						
+609	Subparafascicular area	Inaccurate	0									0						
+609	Subparafascicular area	Uncertain	0									0						
+609	Subparafascicular area	Damaged	0									0						
+1044	Peripeduncular nucleus	N/A	0															
+1044	Peripeduncular nucleus	Accurate	0															
+1044	Peripeduncular nucleus	Inaccurate	0															
+1044	Peripeduncular nucleus	Uncertain	0															
+1044	Peripeduncular nucleus	Damaged	0															
+1008	Geniculate group, dorsal thalamus	N/A	0									0	0	0	0			
+1008	Geniculate group, dorsal thalamus	Accurate	7									2	3	1	1			
+1008	Geniculate group, dorsal thalamus	Inaccurate	0									0	0	0	0			
+1008	Geniculate group, dorsal thalamus	Uncertain	2									1	0	1	0			
+1008	Geniculate group, dorsal thalamus	Damaged	0									0	0	0	0			
+856	Thalamus, polymodal association cortex related	N/A	0															
+856	Thalamus, polymodal association cortex related	Accurate	0															
+856	Thalamus, polymodal association cortex related	Inaccurate	0															
+856	Thalamus, polymodal association cortex related	Uncertain	0															
+856	Thalamus, polymodal association cortex related	Damaged	0															
+138	Lateral group of the dorsal thalamus	N/A	0								0	0	0	0	0			
+138	Lateral group of the dorsal thalamus	Accurate	13								2	6	2	1	2			
+138	Lateral group of the dorsal thalamus	Inaccurate	0								0	0	0	0	0			
+138	Lateral group of the dorsal thalamus	Uncertain	6								1	2	0	3	0			
+138	Lateral group of the dorsal thalamus	Damaged	0								0	0	0	0	0			
+239	Anterior group of the dorsal thalamus	N/A	2						2	0	0							
+239	Anterior group of the dorsal thalamus	Accurate	10						4	4	2							
+239	Anterior group of the dorsal thalamus	Inaccurate	0						0	0	0							
+239	Anterior group of the dorsal thalamus	Uncertain	4						2	0	2							
+239	Anterior group of the dorsal thalamus	Damaged	0						0	0	0							
+444	Medial group of the dorsal thalamus	N/A	7						1	4	2							
+444	Medial group of the dorsal thalamus	Accurate	7						2	2	3							
+444	Medial group of the dorsal thalamus	Inaccurate	0						0	0	0							
+444	Medial group of the dorsal thalamus	Uncertain	6						0	4	2							
+444	Medial group of the dorsal thalamus	Damaged	0						0	0	0							
+571	Midline group of the dorsal thalamus	N/A	7					2	2	2	1							
+571	Midline group of the dorsal thalamus	Accurate	4					3	1	0	0							
+571	Midline group of the dorsal thalamus	Inaccurate	0					0	0	0	0							
+571	Midline group of the dorsal thalamus	Uncertain	5					1	3	1	0							
+571	Midline group of the dorsal thalamus	Damaged	0					0	0	0	0							
+51	Intralaminar nuclei of the dorsal thalamus	N/A	3						0	1	1	1						
+51	Intralaminar nuclei of the dorsal thalamus	Accurate	7						0	1	1	5						
+51	Intralaminar nuclei of the dorsal thalamus	Inaccurate	0						0	0	0	0						
+51	Intralaminar nuclei of the dorsal thalamus	Uncertain	4						2	1	0	1						
+51	Intralaminar nuclei of the dorsal thalamus	Damaged	0						0	0	0	0						
+262	Reticular nucleus of the thalamus	N/A	0						0	0	0							
+262	Reticular nucleus of the thalamus	Accurate	9						4	3	2							
+262	Reticular nucleus of the thalamus	Inaccurate	0						0	0	0							
+262	Reticular nucleus of the thalamus	Uncertain	0						0	0	0							
+262	Reticular nucleus of the thalamus	Damaged	0						0	0	0							
+1014	Geniculate group, ventral thalamus	N/A	0									0	0					
+1014	Geniculate group, ventral thalamus	Accurate	1									1	0					
+1014	Geniculate group, ventral thalamus	Inaccurate	0									0	0					
+1014	Geniculate group, ventral thalamus	Uncertain	3									0	3					
+1014	Geniculate group, ventral thalamus	Damaged	0									0	0					
+958	Epithalamus	N/A	3							2	1	0						
+958	Epithalamus	Accurate	5							1	2	2						
+958	Epithalamus	Inaccurate	0							0	0	0						
+958	Epithalamus	Uncertain	0							0	0	0						
+958	Epithalamus	Damaged	0							0	0	0						
+1097	Hypothalamus	N/A	192			13	22	29	29	26	23	30	16	4				
+1097	Hypothalamus	Accurate	0			0	0	0	0	0	0	0	0	0				
+1097	Hypothalamus	Inaccurate	0			0	0	0	0	0	0	0	0	0				
+1097	Hypothalamus	Uncertain	3			1	2	0	0	0	0	0	0	0				
+1097	Hypothalamus	Damaged	0			0	0	0	0	0	0	0	0	0				
+313	Midbrain	N/A	21										6	6	0	3	1	5
+313	Midbrain	Accurate	34										2	10	8	9	2	3
+313	Midbrain	Inaccurate	1										0	1	0	0	0	0
+313	Midbrain	Uncertain	8										2	0	1	1	2	2
+313	Midbrain	Damaged	0										0	0	0	0	0	0
+339	Midbrain, sensory related	N/A	0												0	0	0	0
+339	Midbrain, sensory related	Accurate	14												2	5	4	3
+339	Midbrain, sensory related	Inaccurate	1												0	0	1	0
+339	Midbrain, sensory related	Uncertain	12												1	2	5	4
+339	Midbrain, sensory related	Damaged	0												0	0	0	0
+323	Midbrain, motor related	N/A	16										4	4	0	4	0	4
+323	Midbrain, motor related	Accurate	129										17	24	31	29	28	0
+323	Midbrain, motor related	Inaccurate	0										0	0	0	0	0	0
+323	Midbrain, motor related	Uncertain	22										4	3	3	3	4	5
+323	Midbrain, motor related	Damaged	0										0	0	0	0	0	0
+348	Midbrain, behavioral state related	N/A	6											1	3	1	0	1
+348	Midbrain, behavioral state related	Accurate	3											0	2	1	0	0
+348	Midbrain, behavioral state related	Inaccurate	0											0	0	0	0	0
+348	Midbrain, behavioral state related	Uncertain	7											1	0	2	4	0
+348	Midbrain, behavioral state related	Damaged	0											0	0	0	0	0
+1065	Hindbrain	N/A	0															
+1065	Hindbrain	Accurate	0															
+1065	Hindbrain	Inaccurate	0															
+1065	Hindbrain	Uncertain	0															
+1065	Hindbrain	Damaged	0															
+771	Pons	N/A	11												2	1	4	4
+771	Pons	Accurate	8												0	1	7	0
+771	Pons	Inaccurate	0												0	0	0	0
+771	Pons	Uncertain	4												0	2	2	0
+771	Pons	Damaged	0												0	0	0	0
+1132	Pons, sensory related	N/A	4													0	0	4
+1132	Pons, sensory related	Accurate	2													1	0	1
+1132	Pons, sensory related	Inaccurate	0													0	0	0
+1132	Pons, sensory related	Uncertain	5													0	4	1
+1132	Pons, sensory related	Damaged	0													0	0	0
+987	Pons, motor related	N/A	13												1	5	2	5
+987	Pons, motor related	Accurate	15												4	9	2	0
+987	Pons, motor related	Inaccurate	0												0	0	0	0
+987	Pons, motor related	Uncertain	2												0	0	2	0
+987	Pons, motor related	Damaged	0												0	0	0	0
+1117	Pons, behavioral state related	N/A	5													2	3	
+1117	Pons, behavioral state related	Accurate	11													3	8	
+1117	Pons, behavioral state related	Inaccurate	0													0	0	
+1117	Pons, behavioral state related	Uncertain	3													2	1	
+1117	Pons, behavioral state related	Damaged	0													0	0	
+354	Medulla	N/A	0															
+354	Medulla	Accurate	0															
+354	Medulla	Inaccurate	0															
+354	Medulla	Uncertain	0															
+354	Medulla	Damaged	0															
+386	Medulla, sensory related	N/A	1															1
+386	Medulla, sensory related	Accurate	0															0
+386	Medulla, sensory related	Inaccurate	0															0
+386	Medulla, sensory related	Uncertain	0															0
+386	Medulla, sensory related	Damaged	0															0
+370	Medulla, motor related	N/A	0															
+370	Medulla, motor related	Accurate	0															
+370	Medulla, motor related	Inaccurate	0															
+370	Medulla, motor related	Uncertain	0															
+370	Medulla, motor related	Damaged	0															
+379	Medulla, behavioral state related	N/A	0															
+379	Medulla, behavioral state related	Accurate	0															
+379	Medulla, behavioral state related	Inaccurate	0															
+379	Medulla, behavioral state related	Uncertain	0															
+379	Medulla, behavioral state related	Damaged	0															
+512	Cerebellum	N/A	0															
+512	Cerebellum	Accurate	0															
+512	Cerebellum	Inaccurate	0															
+512	Cerebellum	Uncertain	0															
+512	Cerebellum	Damaged	0															
+528	Cerebellar cortex	N/A	1															1
+528	Cerebellar cortex	Accurate	0															0
+528	Cerebellar cortex	Inaccurate	0															0
+528	Cerebellar cortex	Uncertain	0															0
+528	Cerebellar cortex	Damaged	0															0
+519	Cerebellar nuclei	N/A	0															
+519	Cerebellar nuclei	Accurate	0															
+519	Cerebellar nuclei	Inaccurate	0															
+519	Cerebellar nuclei	Uncertain	0															
+519	Cerebellar nuclei	Damaged	0															
+1009	fiber tracts	N/A	46	0	4	3	9	6	5	3	0	3	3	0	3	2	3	2
+1009	fiber tracts	Accurate	199	11	10	9	9	9	17	18	24	27	19	18	12	8	8	0
+1009	fiber tracts	Inaccurate	2	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+1009	fiber tracts	Uncertain	21	0	0	0	3	4	2	0	1	0	2	0	1	2	6	0
+1009	fiber tracts	Damaged	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+73	ventricular systems	N/A	24		0	1	2	2	3	1	4	3	4	3			1	
+73	ventricular systems	Accurate	10		1	1	0	2	3	1	0	2	0	0			0	
+73	ventricular systems	Inaccurate	6		0	0	0	2	2	1	0	1	0	0			0	
+73	ventricular systems	Uncertain	1		0	0	0	0	0	0	0	1	0	0			0	
+73	ventricular systems	Damaged	0		0	0	0	0	0	0	0	0	0	0			0	
